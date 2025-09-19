@@ -5,7 +5,7 @@ Los entregables abarcan todas las fases del diseño de bases de datos:
 1. Documento de requisitos e historias de usuario.
 2. Modelo conceptual (ERDPlus, notación de Chen).
 3. Modelo lógico (DBDesigner, 3FN).
-4. Modelo físico (scripts SQL con PostgreSQL/MySQL).
+4. Modelo físico (scripts SQL con Microsoft SQL Server).
 5. Creación de índices, vistas, funciones, procedimientos y disparadores.
 6. Datos de prueba para validación del sistema.
 7. Evidencias del trabajo en equipo y video explicativo.
