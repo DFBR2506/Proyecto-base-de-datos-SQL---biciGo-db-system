@@ -10,4 +10,4 @@ Los entregables abarcan todas las fases del diseño de bases de datos:
 6. Datos de prueba para validación del sistema.
 7. Evidencias del trabajo en equipo y video explicativo.
 
-Este trabajo se desarrolla en equipo de seis integrantes como parte del curso de Bases de Datos (2025-2) de la Universidad del Magdalena..
+Este trabajo se desarrolla en equipo de seis integrantes como parte del curso de Bases de Datos (2025-2) de la Universidad del Magdalena.
