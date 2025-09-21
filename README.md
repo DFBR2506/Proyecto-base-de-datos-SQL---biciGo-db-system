@@ -1,5 +1,5 @@
-# Proyecto-base-de-datos-SQL---bicitour-db-system
-Este repositorio contiene el desarrollo del proyecto Bici Tour, un sistema de gestión basado en bases de datos relacionales. El proyecto busca modelar, almacenar y administrar la información asociada a recorridos turísticos en bicicleta, incluyendo usuarios, reservas, guías, rutas, pagos y demás elementos clave.
+# Proyecto-base-de-datos-SQL---bicigo-db-system
+Este repositorio contiene el desarrollo del proyecto Bici Go, un sistema de gestión basado en bases de datos relacionales. El proyecto busca modelar, almacenar y administrar la información asociada a recorridos turísticos en bicicleta, incluyendo usuarios, reservas, guías, rutas, pagos y demás elementos clave.
 
 Los entregables abarcan todas las fases del diseño de bases de datos:
 1. Documento de requisitos e historias de usuario.
